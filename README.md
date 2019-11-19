@@ -19,3 +19,19 @@ Eclipse - Adicionando argumentos
 Eclipse - Executando o projeto
 
 ![console summary](img/img02.png)
+
+IntelliJ - Adicionando argumentos
+
+![console summary](img/img03.png)
+
+IntelliJ - Executando o projeto
+
+![console summary](img/img04.png)
+
+NetBeans - Adicionando argumentos
+
+![console summary](img/img05.png)
+
+NetBeans - Executando o projeto
+
+![console summary](img/img06.png)
